@@ -13,9 +13,22 @@ p.s
 You can visit the store's Instagram page, the link is on the order confirmation page
 
 some examples:
+
+
+
+
+
+
+
 <img width="530" alt="image" src="https://github.com/Michal2232/dotNet/assets/116974985/33700ca7-aad0-4647-ab0f-4e2e6b4df852">
 
 ‏
+
+
+
+
+
+
 <img width="589" alt="image" src="https://github.com/Michal2232/dotNet/assets/116974985/54e610d1-7695-4271-a926-94e0967ff005">
 
 ‏
