@@ -10,7 +10,7 @@
 	  <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
 	  <AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
 	  <UseCommonOutputDirectory>true</UseCommonOutputDirectory>
-	  <ApplicationIcon>icon.ico</ApplicationIcon>
+	  <ApplicationIcon>logo.ico</ApplicationIcon>
 
   </PropertyGroup>
 
