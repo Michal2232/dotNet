@@ -1,5 +1,7 @@
 • Windows Store Application
+
 developed using C# language and WPF,using the layer model,which is essentially an online shopping store.
+
 This store is designed to cater to all kinds of customers, as well as perform management operations.
 If you are an admin of the store, you have the ability to manage orders, add or remove products, and update the stock levels.
 As a buyer, you can add products to your shopping cart, place new orders, and track your previous purchases. Additionally, 
