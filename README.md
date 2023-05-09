@@ -1,5 +1,5 @@
-� Windows Store Application
-developed using C# language and WPF,which is essentially an online shopping store.
+• Windows Store Application
+developed using C# language and WPF,using the layer model,which is essentially an online shopping store.
 This store is designed to cater to all kinds of customers, as well as perform management operations.
 If you are an admin of the store, you have the ability to manage orders, add or remove products, and update the stock levels.
 As a buyer, you can add products to your shopping cart, place new orders, and track your previous purchases. Additionally, 
@@ -10,9 +10,27 @@ Afterward, feel free to experiment with the simulator mode, which can remain ope
 Enjoy!
 
 p.s
-You can visit the store's Instagram page, the link is on the order confirmation page!
+You can visit the store's Instagram page, the link is on the order confirmation page
+
+some examples:
 
 
 
+
+
+
+
+<img width="530" alt="image" src="https://github.com/Michal2232/dotNet/assets/116974985/33700ca7-aad0-4647-ab0f-4e2e6b4df852">
+
+‏
+
+
+
+
+
+
+<img width="589" alt="image" src="https://github.com/Michal2232/dotNet/assets/116974985/54e610d1-7695-4271-a926-94e0967ff005">
+
+‏
 
 
